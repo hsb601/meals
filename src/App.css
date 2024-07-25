@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  background: rgb(250,242,235);
+  background: linear-gradient(98deg, rgba(250,242,235,1) 0%, rgba(250,237,242,1) 99%);
 }
 
 .App-logo {
@@ -36,3 +37,4 @@
     transform: rotate(360deg);
   }
 }
+
